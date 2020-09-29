@@ -4,7 +4,7 @@ Michelle Noordeloos (Minoord)
 
 ## Te raden woord
 
-|.|.|E|.|.|
+|.|.|E|N|.|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
