@@ -9,7 +9,7 @@ Michelle Noordeloos (Minoord)
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
 req1: E
